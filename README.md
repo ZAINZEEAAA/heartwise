@@ -3,7 +3,8 @@ Heartwise is an intelligent machine learning-based application designed to predi
 📥 Download Full Project Files
 ⚠️ To experience the complete functionality of this project (including trained model files, datasets, and all backend/frontend code), please download the full project from the link below:
 
-📂 Click here to download Heartwise – Full Project Files
+📂 Click here to download Heartwise – Full Project Files or copy link 
+https://drive.google.com/file/d/1UJsA9B4c8fPCkHXag-WnJ7mT-IHcMqUs/view?usp=drive_link
 
 This download includes:
 
