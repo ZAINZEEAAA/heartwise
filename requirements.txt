@@ -1,0 +1,7 @@
+flask
+flask-cors
+joblib
+numpy
+scikit-learn
+imbalanced-learn
+xgboost==2.0.3
